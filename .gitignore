@@ -20,12 +20,6 @@ dist-ssr
 .wrangler/
 .dev.vars
 
-# Environment variables (contains secret API keys - never commit these!)
-.env
-.env.local
-.env.production
-.env.*.local
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
